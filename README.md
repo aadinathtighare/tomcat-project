@@ -25,3 +25,4 @@ cd bin/     ----> directory
 ./shutdown.sh
 ./startup.sh
 -------------------------------------------------------
+https://tomcat.apache.org/tomcat-9.0-doc/appdev/sample/  -->> download .war file
