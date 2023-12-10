@@ -4,4 +4,10 @@ sudo alternatives --config java
 sudo amazon-linux-extras install epel -y
 wget https://downloads.apache.org/tomcat/tomcat-9/v9.0.83/bin/apache-tomcat-9.0.83.tar.gz
 tar -xvf apache-tomcat-9.0.83.tar.gz
+
+
+----------------------------------------------------------------------
+download sample .war file by this link :
+https://tomcat.apache.org/tomcat-9.0-doc/appdev/sample/
+----------------------------------------------------------------
   
